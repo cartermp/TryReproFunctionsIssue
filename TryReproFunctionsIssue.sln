@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppCSharp", "FunctionAppCSharp\FunctionAppCSharp.csproj", "{2A71BDC1-9A91-4BBB-BDD3-479223F048A6}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpClassLib", "FSharpClassLib\FSharpClassLib.fsproj", "{842D72B7-E996-4BE1-AFAD-31E344855F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A71BDC1-9A91-4BBB-BDD3-479223F048A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A71BDC1-9A91-4BBB-BDD3-479223F048A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A71BDC1-9A91-4BBB-BDD3-479223F048A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A71BDC1-9A91-4BBB-BDD3-479223F048A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842D72B7-E996-4BE1-AFAD-31E344855F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842D72B7-E996-4BE1-AFAD-31E344855F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842D72B7-E996-4BE1-AFAD-31E344855F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842D72B7-E996-4BE1-AFAD-31E344855F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5C0380F-4E94-42A4-BC25-7324AE79FC19}
+	EndGlobalSection
+EndGlobal
